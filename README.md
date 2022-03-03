@@ -17,4 +17,4 @@ I am Nora !!
 
 🐱 I also LOVE animals, I have two cats and birds. I also really want a monkey haha🙈.
 
-📬 Please feel free to get in touch with me via email at nchamseddin@gmail.com. I would love to chat and for you to learn momre about me!
+📬 Please feel free to get in touch with me via email at nchamseddin@gmail.com. I would love to chat and for you to learn more about me!
