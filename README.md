@@ -13,7 +13,7 @@ I am Nora !!
 
 💻 Outside of school and work I enjoy building projects and reaserching and learning about tehcnologies in the computer science and mathematics world.
 
-🧗🏻‍♀️ Other than an aspiring computer scientist I am aslo a rock climber who enjoys spending time outdoor and going on adventures.  
+🧗🏻‍♀️ Other than an aspiring computer scientist I am aslo a rock climber who enjoys spending time outdoors and going on adventures.  
 
 🐱 I also LOVE animals, I have two cats and birds. I also really want a monkey haha🙈.
 
