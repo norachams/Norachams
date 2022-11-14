@@ -9,7 +9,9 @@ I am Nora !!
 
 🌱 enthusiastic in web developement, software engineering, machine learning and AI.
 
-🔭 I am currently working at Klick Hleath as a Web Developer Intern. 
+🔭 In the summer I was a web developer intern at Klick Hleath. I am currently an MLH prep fellow.
+
+
 
 💻 Outside of school and work I enjoy building projects and reaserching and learning about tehcnologies in the computer science and mathematics world.
 
