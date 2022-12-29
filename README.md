@@ -9,7 +9,7 @@ I am Nora !!
 
 🌱 enthusiastic in web developement, software engineering, machine learning and AI.
 
-🔭 In the summer I was a web developer intern at Klick Hleath. I am currently an MLH prep fellow.
+🔭 In the summer I was a web developer intern at Klick Health. I am currently an MLH prep fellow.
 
 
 
