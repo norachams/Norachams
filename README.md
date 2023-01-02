@@ -26,10 +26,21 @@
 
 <h3 align="left">👩🏻‍💻 About Me:</h3>
 
-🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-🌱 Exploring Technical Content Writing.
-⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-📫 How to reach me: 
+* 📚 I am a second-year student studying Computer Science and Business Administration double degree.
+
+* 💡I enjoy problem-solving and challenging myself by taking on diffuclt projects that I am able to learn from.
+
+* 🌱 enthusiastic in web developement, software engineering, machine learning and AI.
+
+* 🔭 In the summer I was a web developer intern at Klick Health. I am currently an MLH Site Reliability Engineer fellow.
+
+* 💻 Outside of school and work I enjoy building projects and reaserching and learning about tehcnologies in the computer science and mathematics world.
+
+* 🧗🏻‍♀️ Other than an aspiring computer scientist I am also a rock climber who enjoys spending time outdoors and going on adventures.
+
+* 🐱 I also LOVE animals, I have two cats!
+
+* 📬 Feel free to get in touch with me via email at nchamseddin@gmail.com. I would love to chat!
 
 #
 <h3 align="left">🧰 Languages and Tools:</h3>
@@ -39,8 +50,8 @@
 <h3 align="left">📊 Stats:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachams&show_icons=true&locale=en&layout=compact" alt="norachams" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachams&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="norachams" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norachams&show_icons=true&locale=en" alt="norachams" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norachams&theme=ayu-mirage&show_icons=true&locale=en" alt="norachams" /></p>
 
 
