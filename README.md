@@ -49,6 +49,6 @@
 #
 <h3 align="left">📊 Stats:</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachams&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="norachams" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norachams&theme=ayu-mirage&show_icons=true&locale=en" alt="norachams" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norachams&theme=ayu-mirage&show_icons=true&locale=en" alt="norachams"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachams&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="norachams" /></p>
 
