@@ -28,15 +28,15 @@
 
 
 
-* 📚 I am a second-year student studying Computer Science and Business Administration double degree.
+* 📚 I am a second-year double degree student studying computer science and business administration.
 
-* 💡I enjoy problem-solving and challenging myself by taking on diffuclt projects that I am able to learn from.
+* 💡I enjoy problem-solving and challenging myself by taking on difficult projects that I am able to learn from.
 
-* 🌱 enthusiastic in web developement, software engineering, machine learning and AI.
+* 🌱 enthusiastic in full-stack developement, software engineering, machine learning and AI.
 
 * 🔭 In the summer I was a web developer intern at Klick Health. I am currently an MLH Site Reliability Engineer fellow.
 
-* 💻 Outside of school and work I enjoy building projects and reaserching and learning about tehcnologies in the computer science and mathematics world.
+* 💻 Outside of school and work I enjoy building projects, reaserching and learning about technologies in the computer science and mathematics world.
 
 * 🧗🏻‍♀️ Other than an aspiring computer scientist I am also a rock climber who enjoys spending time outdoors and going on adventures.
 
