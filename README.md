@@ -73,5 +73,5 @@
 
 <h3 align="left">📊 Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=norachams&theme=ayu-mirage&show_icons=true&locale=en" alt="norachams "height="180"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachams&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="norachams" height="180"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=norachams&theme=ayu-mirage&show_icons=true&locale=en" alt="norachams "height="190"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachams&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="norachams" height="190"/></p>
 
