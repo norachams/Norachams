@@ -40,7 +40,7 @@
 
 * 🧗🏻‍♀️ Other than an aspiring computer scientist I am also a rock climber who enjoys spending time outdoors and going on adventures.
 
-* 🐱 I also LOVE animals, I have two cats!
+* 🐱 I also LOVE animals, I have two cats, woody and Caramella!
 
 * 📬 Feel free to get in touch with me via email at nchamseddin@gmail.com. I would love to chat!
 
