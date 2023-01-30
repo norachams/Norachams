@@ -28,7 +28,7 @@
 
 
 
-* 📚 I am a second-year double degree student studying computer science and business administration.
+* 📚 I am a second-year dual degree student studying computer science and business administration.
 
 * 💡I enjoy problem-solving and challenging myself by taking on difficult projects that I am able to learn from.
 
