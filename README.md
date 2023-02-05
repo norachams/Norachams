@@ -22,7 +22,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=norachams&label=Profile%20views&color=DAD7CD&style=flat" alt="norachams" /> </p>
 
-**
+***
 
 <h3 align="left">👩🏻‍💻 About Me:</h3>
 
