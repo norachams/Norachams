@@ -34,7 +34,7 @@
 
 * 🌱 enthusiastic in full-stack developement, software engineering, machine learning and AI.
 
-* 🔭 In the summer I was a web developer intern at Klick Health. In the fall I was an MLH prep fellow. This coming winter I am joining MLH again as a Site Reliability Engineer fellow
+* 🔭 In the summer I was a web developer intern at Klick Health. In the fall I was an MLH prep fellow. This coming winter I am joining MLH again as a Site Reliability Engineer fellow.
 
 * 💻 Outside of school and work I enjoy building projects, reaserching and learning about technologies in the computer science and mathematics world.
 
