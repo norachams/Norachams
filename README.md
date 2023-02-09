@@ -42,7 +42,7 @@
 
 * 🐱 I also LOVE animals, I have two cats!
 
-* 📬 Feel free to get in touch with me via email at nchamseddin@gmail.com. I would love to chat
+* 📬 Feel free to get in touch with me via email at nchamseddin@gmail.com. I would love to chat!
 
 #
 
