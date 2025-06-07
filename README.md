@@ -28,13 +28,13 @@
 
 
 
-* 📚 I am a third-year dual degree student studying computer science and business administration.
+* 📚 I am a fourth-year double degree student studying computer science and business administration.
 
-* 💡I enjoy problem-solving and challenging myself by taking on difficult projects that I am able to learn from.
+* 💡 I enjoy problem-solving and challenging myself by taking on difficult projects that I am able to learn from.
 
 * 🌱 enthusiastic in full-stack developement, software engineering, machine learning and AI.
 
-* 🔭 In the summer I was a web developer intern at Klick Health. In the fall I was an MLH prep fellow. This winter I joined MLH again as a Site Reliability Engineer fellow.
+* 🔭 
 
 * 💻 Outside of school and work I enjoy building projects, reaserching and learning about technologies in the computer science and mathematics world.
 
