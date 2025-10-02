@@ -1,6 +1,6 @@
-<div align="center" >
+<!-- <div align="center" >
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=DAD7CD&height=120&section=header&text=Hi,%20I%20am%20Nora&animation=fadeIn&fontSize=60" />
-</div>
+</div>  -->
 
 
 <div id="header" align="center">
@@ -21,17 +21,17 @@
 
 ***
 
-<h3 align="left">👩🏻‍💻 About Me:</h3>
+<h3 align="left">👩🏻‍💻 Hey there, I am Nora</h3>
 
-* 📚 I am a fourth-year double degree student studying computer science and business administration.
+* 📚 I am a double degree student studying computer science and business adminstration
 
 * 💡 I enjoy building projects that solve real problems I encounter and allow me to learn through the process.
 
 * 🧗🏻‍♀️ I am also a rock climber who enjoys spending time outdoors.
 
-* 🐱 I also LOVE animals, I have two cats!
-
-* 📬 Feel free to get in touch with me via email at nchamseddin@gmail.com or connect on LinkedIn. I would love to chat!
+* 📬 You can reach me on: nchamseddin@gmail.com or nchamsed@uwaterloo.ca
+  
+* 🔗 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/norachamseddin/)
 
 
 
