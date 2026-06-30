@@ -29,7 +29,7 @@
 
 * 🧗🏻‍♀️ I am also a rock climber who enjoys spending time outdoors.
 
-* 📬 You can reach me on: nchamseddin@gmail.com or nchamsed@uwaterloo.ca
+* 📬 You can reach me at: nchamseddin@gmail.com
   
 * 🔗 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/norachamseddin/)
 
